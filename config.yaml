@@ -1,0 +1,14 @@
+path: C:\Users\Victor\Desktop\DSAIL #data root dir
+train: images/train   #images dir
+val: images/labels    #labels dir
+
+
+#Classes
+names:
+  0: Impala
+  1: Zebra
+  2: Warthog
+  3: Bushbuck
+  4: Waterbuck
+  5: Monkey
+  6: Others
